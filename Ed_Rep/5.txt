@@ -1,0 +1,72 @@
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class CalendarCreator {
+    public static void main(String[] args) {
+        // Get user input
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter month name: ");
+        String monthName = scanner.nextLine();
+        System.out.print("Enter number of days in month: ");
+        int daysInMonth = scanner.nextInt();
+        scanner.nextLine(); // consume the newline character
+        System.out.print("Enter starting day of the week: ");
+        String startingDay = scanner.nextLine();
+
+        // Create filename
+        String filename = monthName.substring(0, 1).toUpperCase() +
+                          monthName.substring(1).toLowerCase() +
+                          "Calendar.txt";
+
+        // Write to file
+        try {
+            FileWriter writer = new FileWriter(filename);
+            writer.write(monthName + "\n");
+            writer.write("mon tue wed thu fri sat sun\n");
+
+            // Add padding for the first week
+            for (int i = 0; i < getDayOfWeekNumber(startingDay); i++) {
+                writer.write("    ");
+            }
+
+            // Write days of the month
+            int dayOfWeek = getDayOfWeekNumber(startingDay);
+            for (int i = 1; i <= daysInMonth; i++) {
+                writer.write(String.format("%3d ", i));
+                if (dayOfWeek == 6) {
+                    writer.write("\n");
+                    dayOfWeek = 0;
+                } else {
+                    dayOfWeek++;
+                }
+            }
+
+            writer.close();
+            System.out.println("Calendar created successfully!");
+        } catch (IOException e) {
+            System.out.println("An error occurred while creating the calendar.");
+            e.printStackTrace();
+        }
+    }
+
+    private static int getDayOfWeekNumber(String day) {
+        switch (day.toLowerCase()) {
+            case "monday":
+                return 0;
+            case "tuesday":
+                return 1;
+            case "wednesday":
+                return 2;
+            case "thursday":
+                return 3;
+            case "friday":
+                return 4;
+            case "saturday":
+                return 5;
+            case "sunday":
+                return 6;
+            default:
+                return 0;
+        }
+    }
+}

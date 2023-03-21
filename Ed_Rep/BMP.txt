@@ -1,0 +1,36 @@
+import java.io.*;
+
+public class BMPReader {
+    public static void main(String[] args) {
+        try {
+            // Open the BMP file
+            File file = new File("image.bmp");
+            FileInputStream stream = new FileInputStream(file);
+
+            // Check if the file is a valid BMP file
+            byte[] signature = new byte[2];
+            stream.read(signature);
+            if (signature[0] != 'B' || signature[1] != 'M') {
+                System.out.println("Error: Not a valid BMP file.");
+                return;
+            }
+
+            // Get the width and height of the BMP file
+            byte[] widthBytes = new byte[4];
+            stream.read(widthBytes);
+            int width = Integer.reverseBytes(ByteBuffer.wrap(widthBytes).getInt());
+
+            byte[] heightBytes = new byte[4];
+            stream.read(heightBytes);
+            int height = Integer.reverseBytes(ByteBuffer.wrap(heightBytes).getInt());
+
+            System.out.println("Width: " + width + " pixels");
+            System.out.println("Height: " + height + " pixels");
+
+            // Close the file stream
+            stream.close();
+        } catch (IOException e) {
+            System.out.println("Error: " + e.getMessage());
+        }
+    }
+}
