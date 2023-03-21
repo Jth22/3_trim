@@ -1,0 +1,15 @@
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\bin\Debug\net6.0\Ej0803_8.exe
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\bin\Debug\net6.0\Ej0803_8.deps.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\bin\Debug\net6.0\Ej0803_8.runtimeconfig.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\bin\Debug\net6.0\Ej0803_8.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\bin\Debug\net6.0\Ej0803_8.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\Ej0803_8.csproj.AssemblyReference.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\Ej0803_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\Ej0803_8.AssemblyInfoInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\Ej0803_8.AssemblyInfo.cs
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\Ej0803_8.csproj.CoreCompileInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\Ej0803_8.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\refint\Ej0803_8.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\Ej0803_8.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\Ej0803_8.genruntimeconfig.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0803_LecturaHastaFinalFichero\Ej0803_8\obj\Debug\net6.0\ref\Ej0803_8.dll

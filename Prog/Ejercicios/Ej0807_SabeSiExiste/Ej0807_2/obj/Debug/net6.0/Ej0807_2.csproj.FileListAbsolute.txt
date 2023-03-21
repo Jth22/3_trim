@@ -1,0 +1,15 @@
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\bin\Debug\net6.0\Ej0807_2.exe
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\bin\Debug\net6.0\Ej0807_2.deps.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\bin\Debug\net6.0\Ej0807_2.runtimeconfig.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\bin\Debug\net6.0\Ej0807_2.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\bin\Debug\net6.0\Ej0807_2.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\Ej0807_2.csproj.AssemblyReference.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\Ej0807_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\Ej0807_2.AssemblyInfoInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\Ej0807_2.AssemblyInfo.cs
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\Ej0807_2.csproj.CoreCompileInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\Ej0807_2.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\refint\Ej0807_2.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\Ej0807_2.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\Ej0807_2.genruntimeconfig.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0807_SabeSiExiste\Ej0807_2\obj\Debug\net6.0\ref\Ej0807_2.dll

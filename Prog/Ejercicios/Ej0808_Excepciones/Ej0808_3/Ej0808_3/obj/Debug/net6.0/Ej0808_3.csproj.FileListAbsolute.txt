@@ -1,0 +1,15 @@
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\bin\Debug\net6.0\Ej0808_3.exe
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\bin\Debug\net6.0\Ej0808_3.deps.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\bin\Debug\net6.0\Ej0808_3.runtimeconfig.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\bin\Debug\net6.0\Ej0808_3.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\bin\Debug\net6.0\Ej0808_3.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\Ej0808_3.csproj.AssemblyReference.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\Ej0808_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\Ej0808_3.AssemblyInfoInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\Ej0808_3.AssemblyInfo.cs
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\Ej0808_3.csproj.CoreCompileInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\Ej0808_3.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\refint\Ej0808_3.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\Ej0808_3.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\Ej0808_3.genruntimeconfig.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0808_Excepciones\Ej0808_3\Ej0808_3\obj\Debug\net6.0\ref\Ej0808_3.dll

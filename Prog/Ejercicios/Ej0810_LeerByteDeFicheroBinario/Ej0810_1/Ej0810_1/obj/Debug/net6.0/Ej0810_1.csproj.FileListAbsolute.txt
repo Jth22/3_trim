@@ -1,0 +1,15 @@
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\bin\Debug\net6.0\Ej0810_1.exe
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\bin\Debug\net6.0\Ej0810_1.deps.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\bin\Debug\net6.0\Ej0810_1.runtimeconfig.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\bin\Debug\net6.0\Ej0810_1.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\bin\Debug\net6.0\Ej0810_1.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\Ej0810_1.csproj.AssemblyReference.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\Ej0810_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\Ej0810_1.AssemblyInfoInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\Ej0810_1.AssemblyInfo.cs
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\Ej0810_1.csproj.CoreCompileInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\Ej0810_1.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\refint\Ej0810_1.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\Ej0810_1.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\Ej0810_1.genruntimeconfig.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0810_LeerByteDeFicheroBinario\Ej0810_1\Ej0810_1\obj\Debug\net6.0\ref\Ej0810_1.dll

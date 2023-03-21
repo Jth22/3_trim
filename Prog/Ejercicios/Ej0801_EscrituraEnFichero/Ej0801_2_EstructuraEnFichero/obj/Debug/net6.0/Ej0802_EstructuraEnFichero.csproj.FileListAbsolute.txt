@@ -1,0 +1,15 @@
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\bin\Debug\net6.0\Ej0802_EstructuraEnFichero.exe
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\bin\Debug\net6.0\Ej0802_EstructuraEnFichero.deps.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\bin\Debug\net6.0\Ej0802_EstructuraEnFichero.runtimeconfig.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\bin\Debug\net6.0\Ej0802_EstructuraEnFichero.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\bin\Debug\net6.0\Ej0802_EstructuraEnFichero.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\Ej0802_EstructuraEnFichero.csproj.AssemblyReference.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\Ej0802_EstructuraEnFichero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\Ej0802_EstructuraEnFichero.AssemblyInfoInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\Ej0802_EstructuraEnFichero.AssemblyInfo.cs
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\Ej0802_EstructuraEnFichero.csproj.CoreCompileInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\Ej0802_EstructuraEnFichero.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\refint\Ej0802_EstructuraEnFichero.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\Ej0802_EstructuraEnFichero.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\Ej0802_EstructuraEnFichero.genruntimeconfig.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej0802_EstructuraEnFichero\obj\Debug\net6.0\ref\Ej0802_EstructuraEnFichero.dll

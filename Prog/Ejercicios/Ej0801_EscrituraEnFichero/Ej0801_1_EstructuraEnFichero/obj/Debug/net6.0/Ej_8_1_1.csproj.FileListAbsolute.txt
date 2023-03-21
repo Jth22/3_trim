@@ -1,0 +1,15 @@
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\bin\Debug\net6.0\Ej_8_1_1.exe
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\bin\Debug\net6.0\Ej_8_1_1.deps.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\bin\Debug\net6.0\Ej_8_1_1.runtimeconfig.json
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\bin\Debug\net6.0\Ej_8_1_1.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\bin\Debug\net6.0\Ej_8_1_1.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\Ej_8_1_1.csproj.AssemblyReference.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\Ej_8_1_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\Ej_8_1_1.AssemblyInfoInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\Ej_8_1_1.AssemblyInfo.cs
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\Ej_8_1_1.csproj.CoreCompileInputs.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\Ej_8_1_1.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\refint\Ej_8_1_1.dll
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\Ej_8_1_1.pdb
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\Ej_8_1_1.genruntimeconfig.cache
+D:\Documents\DAM\3er_Trim\Prog\Ejercicios\Ej0801_EscrituraEnFichero\Ej_8_1_1\obj\Debug\net6.0\ref\Ej_8_1_1.dll

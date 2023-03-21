@@ -1,0 +1,15 @@
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/bin/Debug/net5.0/Ejercicio_8_4_1.deps.json
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/bin/Debug/net5.0/Ejercicio_8_4_1.runtimeconfig.json
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/bin/Debug/net5.0/Ejercicio_8_4_1.runtimeconfig.dev.json
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/bin/Debug/net5.0/Ejercicio_8_4_1.dll
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/bin/Debug/net5.0/ref/Ejercicio_8_4_1.dll
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/bin/Debug/net5.0/Ejercicio_8_4_1.pdb
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/Ejercicio_8_4_1.csproj.AssemblyReference.cache
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/Ejercicio_8_4_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/Ejercicio_8_4_1.AssemblyInfoInputs.cache
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/Ejercicio_8_4_1.AssemblyInfo.cs
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/Ejercicio_8_4_1.csproj.CoreCompileInputs.cache
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/Ejercicio_8_4_1.dll
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/ref/Ejercicio_8_4_1.dll
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/Ejercicio_8_4_1.pdb
+/Users/adriivorra/Desktop/GS.DAM/PROGRAMACIÓN/3ª Evaluación/TEMA 8/8.4/Ejercicio_8_4_1/Ejercicio_8_4_1/obj/Debug/net5.0/Ejercicio_8_4_1.genruntimeconfig.cache
