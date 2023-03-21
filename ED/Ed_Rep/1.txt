@@ -1,0 +1,26 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class TwoSentencesToFile {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the first sentence: ");
+        String firstSentence = scanner.nextLine();
+        System.out.print("Enter the second sentence: ");
+        String secondSentence = scanner.nextLine();
+
+        try {
+            BufferedWriter writer = new BufferedWriter(new FileWriter("twoSentences.txt"));
+            writer.write(firstSentence);
+            writer.newLine();
+            writer.write(secondSentence);
+            writer.close();
+            System.out.println("Sentences written to file successfully!");
+        } catch (IOException e) {
+            System.out.println("An error occurred while writing to the file: " + e.getMessage());
+        }
+    }
+}

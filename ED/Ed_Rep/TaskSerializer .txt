@@ -1,0 +1,80 @@
+import java.io.Serializable;
+
+public class Task implements Serializable {
+    private String description;
+    private String dueDate;
+
+    public Task(String description, String dueDate) {
+        this.description = description;
+        this.dueDate = dueDate;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String getDueDate() {
+        return dueDate;
+    }
+
+    @Override
+    public String toString() {
+        return "Task{" +
+                "description='" + description + '\'' +
+                ", dueDate='" + dueDate + '\'' +
+                '}';
+    }
+}
+
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Main {
+    private static final String FILE_NAME = "tasks.dat";
+
+    public static void main(String[] args) {
+        ArrayList<Task> tasks = readTasksFromFile();
+
+        System.out.println("Current tasks:");
+        for (Task task : tasks) {
+            System.out.println(task);
+        }
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Do you want to add a new task? (y/n)");
+        String answer = scanner.nextLine();
+        while (answer.equalsIgnoreCase("y")) {
+            System.out.println("Enter task description:");
+            String description = scanner.nextLine();
+            System.out.println("Enter task due date (dd/mm/yyyy):");
+            String dueDate = scanner.nextLine();
+            tasks.add(new Task(description, dueDate));
+            System.out.println("Task added!");
+            System.out.println("Do you want to add another task? (y/n)");
+            answer = scanner.nextLine();
+        }
+
+        writeTasksToFile(tasks);
+    }
+
+    private static ArrayList<Task> readTasksFromFile() {
+        ArrayList<Task> tasks = new ArrayList<>();
+        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(FILE_NAME))) {
+            tasks = (ArrayList<Task>) ois.readObject();
+        } catch (FileNotFoundException e) {
+            System.out.println("File not found: " + FILE_NAME);
+        } catch (IOException | ClassNotFoundException e) {
+            System.out.println("Error reading file: " + e.getMessage());
+        }
+        return tasks;
+    }
+
+    private static void writeTasksToFile(ArrayList<Task> tasks) {
+        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(FILE_NAME))) {
+            oos.writeObject(tasks);
+        } catch (IOException e) {
+            System.out.println("Error writing file: " + e.getMessage());
+        }
+    }
+}

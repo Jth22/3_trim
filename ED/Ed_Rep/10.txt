@@ -1,0 +1,46 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class WordSearchInArrayList {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter file name: ");
+        String fileName = scanner.nextLine();
+
+        ArrayList<String> lines = new ArrayList<>();
+        try (BufferedReader reader = new BufferedReader(new FileReader(fileName))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                lines.add(line);
+            }
+        } catch (IOException e) {
+            System.err.println("Error reading file: " + e.getMessage());
+            System.exit(1);
+        }
+
+        while (true) {
+            System.out.print("Enter word to search (or empty string to exit): ");
+            String word = scanner.nextLine();
+
+            if (word.isEmpty()) {
+                break;
+            }
+
+            boolean found = false;
+            for (String line : lines) {
+                if (line.contains(word)) {
+                    System.out.println(line);
+                    found = true;
+                }
+            }
+
+            if (!found) {
+                System.out.println("Not found");
+            }
+        }
+        scanner.close();
+    }
+}
