@@ -1,0 +1,23 @@
+import java.time.LocalDate;
+import java.util.Scanner;
+
+public class UserBirthday {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.print("Ingrese el día de su nacimiento: ");
+        int day = input.nextInt();
+        System.out.print("Ingrese el mes de su nacimiento (en formato numérico, por ejemplo: 1 para enero): ");
+        int month = input.nextInt();
+        System.out.print("Ingrese el año de su nacimiento: ");
+        int year = input.nextInt();
+        LocalDate birthDate = LocalDate.of(year, month, day);
+        LocalDate today = LocalDate.now();
+        LocalDate currentYearBirthday = birthDate.withYear(today.getYear());
+        if (currentYearBirthday.isBefore(today) || currentYearBirthday.isEqual(today)) {
+            System.out.println("¡Feliz cumpleaños! Su cumpleaños ya ha pasado este año.");
+        } else {
+            System.out.println("Su cumpleaños aún no ha llegado este año.");
+        }
+        input.close();
+    }
+}
